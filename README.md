@@ -3,6 +3,6 @@ Interactive p5js app that visualizes the Fibonacci Sequence with modulo and shap
 
 Inspired by a video by Jacob Yatsko: https://www.youtube.com/watch?v=o1eLKODSCqw
 
-Try it out: [Play around with it in the p5js web editor here](https://editor.p5js.org/im-griff/sketches/d_mFJhr7g)
+Try it out here: [Play around in the p5js web editor](https://editor.p5js.org/im-griff/sketches/d_mFJhr7g)
 
 ![Alt Text](https://i.imgur.com/jMMTvOP.gif)
